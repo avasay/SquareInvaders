@@ -1,0 +1,17 @@
+{
+  "name": "Square Invaders",
+  "short_name": "SINV",
+  "description": "Square Invaders",
+  "scope": "/SquareInvaders/",
+  "start_url": "/SquareInvaders/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/SquareInvaders/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
+}
